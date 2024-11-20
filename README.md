@@ -55,7 +55,7 @@ The Screenshots of the Website and its feactures:
 ![Screenshot 2024-11-20 080422](https://github.com/user-attachments/assets/8c96731c-cdb7-40a8-9cbf-8d34fe2b4428)
 ![Screenshot 2024-11-20 122954](https://github.com/user-attachments/assets/75eca6d0-6685-4320-a2ae-fbd24e533d42)
 ![Screenshot 2024-11-20 123046](https://github.com/user-attachments/assets/10b911ad-f771-487d-9d0f-0e9534f0a4a3)
-![Screenshot 2024-11-20 080459](https://github.com/user-attachments/assets/d03d9763-f1fb-4557-8d42-af58165fc4fc)
+
 
 
 
